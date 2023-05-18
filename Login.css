@@ -1,0 +1,22 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .errorMessage {
+    color: red;
+  }
+  
+  .inputField {
+    margin: 10px;
+    padding: 5px;
+  }
+  
+  .loginButton {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+  }
